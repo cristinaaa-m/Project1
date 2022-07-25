@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main{
-    string message = "Hello to the world of Cpp";
-}
+int main(){
+
 return 0;
+}
